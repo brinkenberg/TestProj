@@ -1,5 +1,7 @@
 Here is some new text in my lovely file.
 
 ////
-these are master branch changes
+
+NOW from hotfix to be in master
 ////
+made a hotfix change 
